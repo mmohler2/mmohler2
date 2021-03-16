@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mmohler2
+- 👋 Hi, I’m @unimike
 - 👀 I’m interested generally in development directed towards helping others
 - 🌱 I’m currently exploring the world of cloud computing
 - 📫 How to reach me can be through here, or my linkedin: 'linkedin.com/in/unimike'
